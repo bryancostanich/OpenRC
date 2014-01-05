@@ -4,7 +4,7 @@ Repo for the OpenRC Printable Radio Controlled Vehicles Project. Contains printa
 
 Currently holds only a Truggy, but future vehicles can be added.
 
-![Truggy Pic](http://github.com/bryancostanich/OpenRC/blob/master/Truggy/Renderings/OpenRC%20Truggy%201_small.jpg?raw=true)
+![Truggy Pic](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
 
 ## File Organization
 I've taken a whack at organizing the files, but please let me know if you want to be added to the repo and organize even more/better.

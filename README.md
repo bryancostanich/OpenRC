@@ -14,7 +14,7 @@ I've kept the early revision files of various parts in here for posterity, but i
 
 
 ## Sourcing
-
+ * Bill of Materials - Can be found in the /Truggy folder.
  * CVD Shafts - [Conrad](http://www.conrad.com/ce/en/product/231121/)
 
 ## Credits

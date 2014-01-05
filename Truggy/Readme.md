@@ -3,10 +3,10 @@
 ![Truggy](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
 
 ## Bill of Materials
-[here](https://github.com/bryancostanich/OpenRC/raw/master/Truggy/OpenRC%20Truggy%20BOM%20-%202013-12-28.pdf)
+ * [here](https://github.com/bryancostanich/OpenRC/raw/master/Truggy/OpenRC%20Truggy%20BOM%20-%202013-12-28.pdf)
 
 ## Build Instructions
-[here - add link](add link)
+ * [here](https://github.com/bryancostanich/OpenRC/blob/master/Truggy/BuildInstructions.md)
 
 ## Specs
 ### Dimensions * **Class** - 1/10 electric 4WD Truggy * **Width** - 312 mm * **Length** - N/A mm * **Wheelbase** - 280 mm

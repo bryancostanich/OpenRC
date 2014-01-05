@@ -1,27 +1,34 @@
-# OpenRC Truggy Specs
-## Dimensions * **Class** - 1/10 electric 4WD Truggy * **Width** - 312 mm * **Length** - N/A mm * **Wheelbase** - 280 mm
+# OpenRC Truggy
+
+![Truggy](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
+
+## Bill of Materials
+[here](https://github.com/bryancostanich/OpenRC/raw/master/Truggy/OpenRC%20Truggy%20BOM%20-%202013-12-28.pdf)
+
+## Specs
+### Dimensions * **Class** - 1/10 electric 4WD Truggy * **Width** - 312 mm * **Length** - N/A mm * **Wheelbase** - 280 mm
  * **Ready-to-run weight** - 2100 g Chassis
 
-## Chassis Plate * **Chassis Plate** - 2Pcs 3D Printed ABS (1 pc version available) * **Top Deck** - 2Pcs 3D Printed ABS## Suspension * **Shocks** - 3D Printed Nylon OpenRC Shocks
-## Drivetrain* **Type** - Full-time shaft-drive 4WD* **Primary** - Pinion / spur
+### Chassis Plate * **Chassis Plate** - 2Pcs 3D Printed ABS (1 pc version available) * **Top Deck** - 2Pcs 3D Printed ABS### Suspension * **Shocks** - 3D Printed Nylon OpenRC Shocks
+### Drivetrain* **Type** - Full-time shaft-drive 4WD* **Primary** - Pinion / spur
 * **Drive shafts** - Reely CVD-cardan shaft (V23581L)* **Central shafts** - 3DPrintedABSDirectConnectionShafts
 * **Differentials** - 3D Printed ABS + Nylon combo
 * **Bearings** - Rubber-sealed high-speed bearings
 
-## Gearing * **Primary ratio** - ￼1:2.5
+### Gearing * **Primary ratio** - ￼1:2.5
  * **Differential pinion** - 16T front / rear
  * **Differential crown gear** - 40T front / rear
  * **Spur gear** - 65T
  * **Motor pinion** - 20T
  
-## Geometry * **Camber** - Adjustable front & rear, 3D Print replacement parts * **Caster** - 6.5º Static
+### Geometry * **Camber** - Adjustable front & rear, 3D Print replacement parts * **Caster** - 6.5º Static
  * **Toe-in** - Adjustable front , 3D Print replacement parts
  * **Steering** - Centrally-positioned dual steering system W/O servo saver
  
-## Body, Tires, Wheels & Misc
+### Body, Tires, Wheels & Misc
  * **Body** - HPI Firestorm
  * **Tires** - Losi 320S Zombie Max
  * **Wheels** - 3D Printed ABS OpenRC Truggy Rims 
-## Electronics 
+### Electronics 
  * **Radio system** - Hobby King GT-2 2.4Ghz 2Ch Tx & Rx
  * **Motor** - Turnigy Trackstar 3650 16T (4000Kv) Brushless Motor * **Esc** - Turnigy Trackstar 80A Sensorless Brushless ESC * **Battery** - Turnigy 4000mAh 2S 40C Lipo Pack

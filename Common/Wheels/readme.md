@@ -2,3 +2,4 @@
  * Beadlock Rim - [outcast RC @ thingiverse](http://www.thingiverse.com/thing:47271)
  * OZ Rally WRC (M-03_OZ-WRC) - [breckandawson @ github](https://github.com/brackendawson/M-03_wheels)
  * my_rim_2.skp - [Cain666 @ Thingiverse.com](http://www.thingiverse.com/thing:144591)]
+ * RC Crawler 4x4 - [diegudio @ thingiverse](http://www.thingiverse.com/thing:176945)

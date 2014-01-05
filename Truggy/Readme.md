@@ -5,6 +5,9 @@
 ## Introduction
  * **video** - [Here](http://www.youtube.com/watch?v=dElz53EsmtM)
  
+## License
+Truggy has been released under the [Creative Commons 3.0 License](http://creativecommons.org/licenses/by/3.0/), Copyright Daniel Norée
+ 
 ## File Organization
 I've taken a whack at organizing the files, but please let me know if you want to be added to the repo and organize even more/better.
 

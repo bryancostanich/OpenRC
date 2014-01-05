@@ -9,6 +9,9 @@ Currently holds only a Truggy, but future vehicles can be added.
 ## File Organization
 I've taken a whack at organizing the files, but please let me know if you want to be added to the repo and organize even more/better.
 
+### Old Files
+I've kept the early revision files of various parts in here for posterity, but in the future, we can much more easily rely on Git's versioning history.
+
 
 ## Sourcing
 

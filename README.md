@@ -18,8 +18,7 @@ I've kept the early revision files of various parts in here for posterity, but i
  * **CVD Shafts** - [Conrad](http://www.conrad.com/ce/en/product/231121/)
  
 ### Parts
- * **Motor** - Turnigy TrackStar Waterproof 1/10 Brushless Power System 4000KV/80A (Motor+ESC Combo) - HobbyKing #9192000061/25138
- * **ESC** - See above
+ * **Motor + Electronic Speed Controller (ESC)** - Turnigy TrackStar Waterproof 1/10 Brushless Power System 4000KV/80A (Motor+ESC Combo) - [HobbyKing #9192000061/25138](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=25138)
  * **Battery** - Turnigy 4000mAh 2S 40C Lipo Pack - HobbyKing #T4000.2S.40/10301 
  * **Servo** - BMS-620MG High Torque Servo (Metal Gear) 9.1kg / .15sec / 50g - HobbyKing #BMS-620MG/8776
  * **Radio** - Hobby King GT-2 2.4Ghz 2Ch Tx & Rx - HobbyKing #HK-GT2/10608

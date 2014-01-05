@@ -5,6 +5,9 @@
 ## Bill of Materials
 [here](https://github.com/bryancostanich/OpenRC/raw/master/Truggy/OpenRC%20Truggy%20BOM%20-%202013-12-28.pdf)
 
+## Build Instructions
+[here - add link](add link)
+
 ## Specs
 ### Dimensions * **Class** - 1/10 electric 4WD Truggy * **Width** - 312 mm * **Length** - N/A mm * **Wheelbase** - 280 mm
  * **Ready-to-run weight** - 2100 g Chassis

@@ -2,6 +2,9 @@
 
 ![Truggy](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
 
+## Introduction
+ * **video** - [Here](http://www.youtube.com/watch?v=dElz53EsmtM)
+
 ## Bill of Materials
  * [here](https://github.com/bryancostanich/OpenRC/raw/master/Truggy/OpenRC%20Truggy%20BOM%20-%202013-12-28.pdf)
 

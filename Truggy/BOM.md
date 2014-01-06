@@ -39,6 +39,13 @@
  * (4) Rims - Printed OpenRC
  * (4) Tires - Losi 320S Zombie Max Tire with Foam LOSB7213
  
+### Suspension
+ * (4) 100mm Standard RC Car Shocks
+ 	* [Blue Aluminum @ HobbyKing.com](http://www.hobbyking.com/hobbyking/store/__22499___1_10_Model_Car_100mm_Adjustable_Aluminum_Shock_Absorber_2pc_Blue_.html)
+ 	* [Purple Aluminum @ HobbyKing.com](http://www.hobbyking.com/hobbyking/store/__26276__1_10_Car_100mm_Aluminum_Shock_Absorber_Purple_2pcs_bag_.html)
+ 	* [Silver Aluminum @ HobbyKing](http://www.hobbyking.com/hobbyking/store/__22500__1_10_Model_Car_100mm_Adjustable_Aluminum_Shock_Absorber_2pc_.html)
+ 	* [Gun Metal Aluminum with Three Pairs of Various Strength Spings @ TowerHobby.com](http://www3.towerhobbies.com/cgi-bin/wti0001p?&I=LXDCTM&P=7)
+ 
 ###  Body
  * Body - HPI Firestorm DSX-1 Lexan Truck Body HPI7123
  

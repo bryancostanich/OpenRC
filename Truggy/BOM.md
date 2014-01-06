@@ -19,7 +19,7 @@
  
 ###  Nuts
 
- * (26) Hexagon Nut ISO 4032 - M3 
+ * (26) M3 Hexagon Nut ISO 4032 - [Amazon Source](http://www.amazon.com/dp/B000FN0CP0/ref=biss_dp_t_asn)
  
 ### Bearings
  * (10) 10x15x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=10x15x4+bearing)

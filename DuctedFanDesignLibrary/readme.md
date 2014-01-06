@@ -1,6 +1,8 @@
 # Ducted Fan Design Library
 An electric ducted fan design library written in Python using the Blender API. Currently, the software is in script form, but an add-on of sorts is being created.
 
+![Fan](https://raw.github.com/bryancostanich/OpenRC/master/DuctedFanDesignLibrary/Images/3d_printed_EDF_fan_small.png)
+
 ## Instructions
 
  * Load blender

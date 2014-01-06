@@ -22,9 +22,9 @@
  * (26) Hexagon Nut ISO 4032 - M3 
  
 ### Bearings
- * (10) 10x15x4
- * (8) 3x10x4
- * (4) 6x12x4
+ * (10) 10x15x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=10x15x4+bearing)
+ * (8) 3x10x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=3x10x4+bearing)
+ * (4) 6x12x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=6x12x4+bearing)
 
 ### Rods
  * (4) Ø2.0 x 32mm

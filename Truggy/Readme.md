@@ -15,7 +15,7 @@ I've taken a whack at organizing the files, but please let me know if you want t
 I've kept the early revision files of various parts in here for posterity, but in the future, we can much more easily rely on Git's versioning history.
  
 ## Bill of Materials
- * [here](https://github.com/bryancostanich/OpenRC/raw/master/Truggy/OpenRC%20Truggy%20BOM%20-%202013-12-28.pdf)
+ * [here](https://github.com/bryancostanich/OpenRC/blob/master/Truggy/BOM.md)
  
 ## Parts Sourcing
  * **Motor + Electronic Speed Controller (ESC)** - Standard 1:10  motor rated for 4WD.

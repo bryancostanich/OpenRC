@@ -12,8 +12,14 @@
  * (4) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 × 14
  * (4) Hexagon Socket Pan Head Cap Screw ISO 7380 - M3 × 16
  
+#### Screw Sources
+
+ * [M3 Hexagon Socket Countersunk Head Screw, various materials and lengths @ Amazon Supply](http://www.amazonsupply.com/s?page=1&size=20&ref_=sp_s_field-feature_two_browse-bin_2292860011&uah=field-feature_eleven_browse-bin%3A3622111011%2Cfield-feature_five_browse-bin%3A3177279011%2Cfield-thread_size%3Am3-0.5%2Cn%3A383599011%7C16403521%7C16410531&uap_r_field-feature_two_browse-bin=%21%212292860011&x=0&y=208)
+ * [ISO 7380 M3 Button (Pan) Head Cap Screws, various materials and lengths @ Amazon Supply](http://www.amazonsupply.com/s?page=1&size=20&ref_=sp_s_M3-0.5&uah=field-feature_eleven_browse-bin%3A3622111011%2Cfield-specification_met%3Aiso+7380%7Cso+7380%2Cfield-feature_five_browse-bin%3A3177279011%2Cfield-feature_two_browse-bin%3A2292862011%2Cn%3A383599011%7C16403521%7C16410531&uap_r_field-thread_size=%21%21M3-0.5&x=0&y=1215)
+ 
 ###  Nuts
- * (26)Hexagon Nut ISO 4032 - M3
+
+ * (26) Hexagon Nut ISO 4032 - M3 
  
 ### Bearings
  * (10) 10x15x4

@@ -5,14 +5,15 @@ Repo for the OpenRC Printable Radio Controlled Vehicles Project. Contains printa
 # [General RC Information](https://github.com/bryancostanich/OpenRC/blob/master/RCInfo.md)
 Battery info, radio info, etc.
 
+# Projects
 
-# [Truggy](https://github.com/bryancostanich/OpenRC/tree/master/Truggy)
+## [Truggy](https://github.com/bryancostanich/OpenRC/tree/master/Truggy)
 
 An awesome 4WD 1:10 Scale 3D printable truggy! This pic says all about this sexy beast:
 
 ![Truggy Pic](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
 
-# [Ducted Fan Design Library](https://github.com/bryancostanich/OpenRC/tree/master/DuctedFanDesignLibrary)
+## [Ducted Fan Design Library](https://github.com/bryancostanich/OpenRC/tree/master/DuctedFanDesignLibrary)
 
 An electric ducted fan design library written in Python using the Blender API. Currently, the software is in script form, but an add-on of sorts is being created.
 

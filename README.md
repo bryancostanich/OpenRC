@@ -8,6 +8,8 @@ Currently holds only Truggy, but future vehicles can be added.
 
 # [Truggy](https://github.com/bryancostanich/OpenRC/tree/master/Truggy)
 
+An awesome 4WD 1:10 Scale 3D printable truggy! This pic says all about this sexy beast:
+
 ![Truggy Pic](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
 
 # [Ducted Fan Design Library](https://github.com/bryancostanich/OpenRC/tree/master/DuctedFanDesignLibrary)

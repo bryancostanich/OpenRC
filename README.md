@@ -13,6 +13,12 @@ An awesome 4WD 1:10 Scale 3D printable truggy! This pic says all about this sexy
 
 ![Truggy Pic](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
 
+## [Touring Car](https://github.com/bryancostanich/OpenRC/tree/master/Touring_Car)
+
+4WD 1:10 scale 3D Printable touring car. Also designed by Daniel, the Touring Car was his first attempt at designing an RC Car.
+
+![Touring Car Pic](https://raw2.github.com/bryancostanich/OpenRC/master/Touring_Car/Renderings/openrc_touring_small.jpg)
+
 ## [Ducted Fan Design Library](https://github.com/bryancostanich/OpenRC/tree/master/DuctedFanDesignLibrary)
 
 An electric ducted fan design library written in Python using the Blender API. Currently, the software is in script form, but an add-on of sorts is being created.

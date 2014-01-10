@@ -1,4 +1,5 @@
 # Touring Car
+![Rendering](https://raw2.github.com/bryancostanich/OpenRC/master/Touring_Car/Renderings/openrc_touring_small.jpg)
 
 ## Introduction
 

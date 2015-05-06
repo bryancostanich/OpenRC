@@ -1,6 +1,6 @@
 # OpenRC Truggy
 
-![Truggy](https://raw.github.com/bryancostanich/OpenRC/master/Truggy/Renderings/OpenRC%20Truggy%201_Small.jpg)
+![Truggy](Renderings/OpenRC_Truggy_Black-Orange.jpg)
 
 ## Introduction
  * **video** - [Here](http://www.youtube.com/watch?v=dElz53EsmtM)
@@ -10,17 +10,13 @@ Truggy has been released under the [Creative Commons 3.0 License](http://creativ
  
 ## File Organization
 I've taken a whack at organizing the files, but please let me know if you want to be added to the repo and organize even more/better.
-
-### Old Files
-I've kept the early revision files of various parts in here for posterity, but in the future, we can much more easily rely on Git's versioning history.
  
 ## Bill of Materials and Sourcing Info
  * [here](https://github.com/bryancostanich/OpenRC/blob/master/Truggy/BOM.md)
  
 
-
-## Build Instructions
- * [here](https://github.com/bryancostanich/OpenRC/blob/master/Truggy/BuildInstructions.md)
+## Documentation
+ * [here](Documentation)
 
 ## Specs
 ### Dimensions * **Class** - 1/10 electric 4WD Truggy * **Width** - 312 mm * **Length** - N/A mm * **Wheelbase** - 280 mm

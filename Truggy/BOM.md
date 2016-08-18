@@ -23,7 +23,7 @@
  
 ### Bearings
  * (10) 10x15x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=10x15x4+bearing)
- * (8) 3x10x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=3x10x4+bearing)
+ * (8) 5x10x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=5x10x4+bearing)
  * (4) 6x12x4 - [Amazon Supply Source](http://www.amazonsupply.com/s/ref=sp_search?guess=true&Action=submit&keywords=6x12x4+bearing)
 
 ### Rods
